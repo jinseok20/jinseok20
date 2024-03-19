@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src="https://img.shields.io/badge/cow-3178C6?style=flat&logo=GNU&logoColor=#A42E2B"/>
+ <img src="https://img.shields.io/badge/cow-#A42E2B?style=flat&logo=GNU&logoColor=white"/>
