@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src="https://img.shields.io/badge/꿀꿀-A42E2B?style=flat&logo=GNU&logoColor=white"/>
+ <img src="https://img.shields.io/badge/꿀꿀-A42E2B?style=for-the-badge&logo=GNU&logoColor=white"/>
