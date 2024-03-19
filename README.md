@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jinseok%20land&fontSize=90)
 ### Hi there 👋
-<img src="https://img.shields.io.badge/박진석-BE312E?style=flat-square&logo=El Jueves&logoColor=white"/>
+
 <!--
 **jinseok20/jinseok20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
