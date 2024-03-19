@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jinseok%20land&fontSize=90)
 ### Hi there 👋
-
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 <!--
 **jinseok20/jinseok20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
