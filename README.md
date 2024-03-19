@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jinseok20)](https://solved.ac/jinseok20)<br/>
-[![조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinseok20%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon= lgtm.svg&icon_color=%23E7E7E7&title=jinseok&edge_plat=false)](https://hits.seeyoufarm.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinseok20&langs_count=8)](https://github.com/jinseok20/github-readme-stats)
